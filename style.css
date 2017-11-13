@@ -91,6 +91,7 @@ div.questions a.btn {
 	text-decoration: none;
 	padding: 10px;
 	font-size: 20px;
+  text-align: center;
 }
 
 div.questions a.btn:hover {
